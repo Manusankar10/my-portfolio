@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.3b99be3f.css",
+    "main.js": "/my-portfolio/static/js/main.228841c0.js",
+    "static/media/sofitel.jpeg": "/my-portfolio/static/media/sofitel.20678281718bc053789e.jpeg",
+    "static/media/mlogo.avif": "/my-portfolio/static/media/mlogo.ec90522312a2bd233323.avif",
+    "index.html": "/my-portfolio/index.html",
+    "main.3b99be3f.css.map": "/my-portfolio/static/css/main.3b99be3f.css.map",
+    "main.228841c0.js.map": "/my-portfolio/static/js/main.228841c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b99be3f.css",
+    "static/js/main.228841c0.js"
+  ]
+}
